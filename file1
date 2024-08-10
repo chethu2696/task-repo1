@@ -1,2 +1,3 @@
 GitHub is a developer platform that allows developers to create, store, manage and share their code
 
+This is the most basic form of the command. An example: Instead of staging files after each individual change, you can tell git commit to notice the changes to the files whose contents are tracked in your working tree and do corresponding git add and git rm for you
